@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repo has moved to [criscatalyst/creator-skills](https://github.com/criscatalyst/creator-skills/tree/main/skills/mindcraft).** It is archived and no longer updated: the latest version of this skill lives there.
+>
+> Install it as a plugin in Claude Code: `/plugin marketplace add criscatalyst/creator-skills` then `/plugin install mindcraft@creator-skills`.
+
 # mindcraft-skill
 
 > **Local AI image generation for Claude Code.** Generate cinematic, editorial-tier images on your Mac using [MindCraft Studio](https://themindstudio.cc/mindcraft) + Z-Image Turbo. **$0 per image, no rate limits, ~70s for a 1080×1350 IG-ready slide.**
